@@ -1,0 +1,35 @@
+.card {
+  background-color: #4b4234;
+  display: block;
+  margin: -30px auto;
+  padding: 50px;
+  border-radius: 16px;
+  width: 500px;
+  color: ivory;
+  font-size: 20px;
+  box-shadow: inset -6px -6px 12px rgba(0, 0, 0, 0.8),
+    inset 6px 6px 12px rgba(255, 255, 255, 0.4);
+}
+
+.countContainer {
+  color: red;
+  width: 50px;
+  height: 50px;
+  background-color: #fc2;
+  border-radius: 50%;
+  text-align: center;
+}
+
+.title {
+  color: rgb(154, 252, 8);
+}
+
+.image {
+  padding: 10px 0;
+}
+
+.image img {
+  width: 150px;
+  height: 150px;
+  border-radius: 10px;
+}

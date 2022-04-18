@@ -1,0 +1,15 @@
+.red,
+.ivory {
+  cursor: pointer;
+  font-size: 30px;
+  position: absolute;
+  margin-top: 15px;
+}
+
+.red {
+  color: red;
+}
+
+.ivory {
+  color: ivory;
+}
